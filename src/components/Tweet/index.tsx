@@ -60,5 +60,4 @@ const Tweet: React.FC = () => {
     </Container>
   );
 }
-
 export default Tweet;
